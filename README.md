@@ -1,2 +1,2 @@
-# WorkProducts
+# SAS Utility Macros
 Sample Work Products
